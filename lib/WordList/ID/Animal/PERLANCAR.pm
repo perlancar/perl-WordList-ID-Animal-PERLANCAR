@@ -106,7 +106,6 @@ hiena
 hiu
 ibex
 ibis
-ibis
 iguana
 ikan
 impala
