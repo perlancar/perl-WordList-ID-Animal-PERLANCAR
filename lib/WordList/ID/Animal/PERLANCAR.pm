@@ -18,11 +18,11 @@ our @ISA = qw(WordList);
 Suitable for playing hangman.
 
 Some spelling variations included (e.g. C<orangutan> and C<orang utan>, C<onta>
-and C<unta>). Multiple popular names for the same animals include (e.g.
+and C<unta>). Multiple popular names for the same animals included (e.g.
 C<kalong> and C<kelelawar>, C<lebah> and C<tawon>, C<dolfin> and
 C<lumba-lumba>). Some two-word animal names included, especially if they refer
-to distinct species or has popular single-word English equivalents (e.g. C<orang
-utan>, C<kuda laut>, C<kuda nil>, C<burung hantu>).
+to distinct species or have popular single-word English equivalents (e.g.
+C<orang utan>, C<kuda laut>, C<kuda nil>, C<burung hantu>).
 
 
 =head1 SEE ALSO
